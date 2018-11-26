@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "f5007aa0-f1a4-11e8-b64b-3b9fc944308e",
+  "do_objectID": "DF0C5ED9-D42C-438E-805E-EBE7B002D2FE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -24,7 +24,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": -326,
     "guides": [
     ]
   },
@@ -37,19 +37,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "324C141F-0B7D-4B2E-BE65-709096BF5CC1"
-    },
-    {
-      "class": "rectangle",
-      "id": "324D1D18-C4CD-4153-A39D-38881B253DFD"
-    },
-    {
-      "class": "rectangle",
-      "id": "EA5BFC9B-3A81-4B7C-B63E-0D27006D8FAD"
+      "class": "symbolMaster",
+      "id": "B2112F6D-766D-4C9D-8E2B-3EC286D0F34B"
     }
   ],
-  "name": "Page 1",
+  "name": "Symbols",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,7 +56,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": -310,
     "guides": [
     ]
   }
