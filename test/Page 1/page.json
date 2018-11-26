@@ -55,6 +55,10 @@
     {
       "class": "rectangle",
       "id": "82833B0D-D854-4922-A950-8E899B1427DF"
+    },
+    {
+      "class": "star",
+      "id": "1A97ECD2-1694-4D9B-A522-714B43E5C061"
     }
   ],
   "name": "Page 1",
