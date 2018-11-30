@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23A04A0C-2995-4BB8-AEF4-2C92E63A1340",
+  "do_objectID": "37EAB028-6839-4046-848E-98ADC5D5BF44",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -47,8 +47,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "4131BD74-1BFF-4498-B68C-A9549D8D0F2A"
+      "class": "rectangle",
+      "id": "12C8CEED-D7CC-4378-9ECA-D39F19B2A603"
     }
   ],
   "name": "iPhone 8 Copy",
