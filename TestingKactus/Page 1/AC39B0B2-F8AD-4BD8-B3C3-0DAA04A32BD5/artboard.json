@@ -28,7 +28,7 @@
     "y": 50
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,8 +51,8 @@
       "id": "FB5D5B2A-A5A9-4B4C-A327-08298F489DBA"
     }
   ],
-  "name": "a1",
-  "nameIsFixed": true,
+  "name": "iPhone 8",
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
