@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "39A2C8F6-847E-4926-AB4D-17899CDE0F57",
+  "do_objectID": "C6C63F79-1717-4209-9610-F813559037B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 791,
+    "x": -152,
     "y": 50
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,10 +48,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "EC60C6A9-F088-45E9-929D-052118CA868C"
+      "id": "AAEEBB59-BE9D-431E-B2DA-59E2B32F89EC"
     }
   ],
-  "name": "a2",
+  "name": "a3",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

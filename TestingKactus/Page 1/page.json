@@ -42,7 +42,7 @@
     },
     {
       "class": "artboard",
-      "id": "39A2C8F6-847E-4926-AB4D-17899CDE0F57"
+      "id": "C6C63F79-1717-4209-9610-F813559037B8"
     }
   ],
   "name": "Page 1",
@@ -57,6 +57,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
